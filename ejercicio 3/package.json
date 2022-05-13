@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "break": "node factorial-break.js",
+    "for": "node factorial-for.js",
+    "while": "node factorial-while.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
