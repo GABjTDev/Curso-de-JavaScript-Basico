@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "conjuntos": "node conjuntos.js"
+    "conjuntos": "node conjuntos.js",
+    "objetos": "node objetos.js",
+    "fechas": "node fechas.js"
   },
   "author": "",
   "license": "ISC"
