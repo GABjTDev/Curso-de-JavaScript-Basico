@@ -1,0 +1,12 @@
+{"level":"info","message":"Soy Info!"}
+{"level":"debug","message":"Soy un Debugger!"}
+{"level":"warn","message":"Soy un Warning!"}
+{"level":"error","message":"Soy un Error!"}
+{"level":"info","message":"Soy Info!"}
+{"level":"debug","message":"Soy un Debugger!"}
+{"level":"warn","message":"Soy un Warning!"}
+{"level":"error","message":"Soy un Error!"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"Error: Error: Not a Number"}
+{"level":"error","message":"Error: Not a Number"}
